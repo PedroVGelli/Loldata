@@ -1,15 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
 nav {
-    background-color: aqua;
-    padding: 2rem;
+    background-color: rgb(6, 28, 170);
+
 }
+
+nav img {
+    width: 500px;
+}
+
 nav a {
-text-decoration: none;
-font-size: 50px;
-color: black;
-font-weight: 400;
+    text-decoration: none;
+    font-size: 50px;
+    color: white;
+    font-weight: 400;
 }
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Black Ops One", system-ui;
     background-color: #f4f4f4;
     margin: 0;
     padding: 20px;
@@ -33,7 +41,8 @@ table {
     margin-top: 20px;
 }
 
-th, td {
+th,
+td {
     border: 1px solid #ddd;
     padding: 10px;
 }

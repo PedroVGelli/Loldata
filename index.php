@@ -40,4 +40,3 @@ require_once '_cabecalho.php'
         </table>
     </div>
 </body>
-</html>
